@@ -1,9 +1,12 @@
-![Example](https://raw.githubusercontent.com/L1am-cd/Unity-2D-Parallax-Mouse-Movement/main/ReadMeAssets/UnityParallaxBanner.png)
+![Banner](https://raw.githubusercontent.com/L1am-cd/Unity-2D-Parallax-Mouse-Movement/main/ReadMeAssets/UnityParallaxBanner.png)
+
 ## 2D Object Parallax
 
 A very simple script that allows you to add a parallax effect to your 2D objects.
 
 ![Example](https://raw.githubusercontent.com/L1am-cd/Unity-2D-Parallax-Mouse-Movement/main/ReadMeAssets/Parallax%20Example.gif)
+
+![Second Example](https://github.com/L1am-cd/Unity-2D-Parallax-Mouse-Movement/blob/219bbef1ea41640d9354ff942eaa04ab7bae80ac/ReadMeAssets/SecondExample.gif)
 
 This script allows you to:
 
