@@ -12,6 +12,13 @@ This script allows you to:
 - Toggle the movement on the X and Y axes
 - Set a maximum X and Y offset
 
+## Use
+
+1. Add the Script to your 2D Object
+2. Change the settings to fit your needs
+
+That's all!
+
 ## Examples
 
 ### High Smoothing
