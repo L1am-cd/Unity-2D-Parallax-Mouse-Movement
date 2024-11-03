@@ -12,6 +12,7 @@ This script allows you to:
 
 - Set the parallax strength
 - Set separate smoothing speeds for touch and mouse inputs
+- Set a toggle to ignore touch and/or mouse input (Not implemented yet)
 - Toggle the movement on the X and Y axes
 - Set a maximum X and Y offset
 
