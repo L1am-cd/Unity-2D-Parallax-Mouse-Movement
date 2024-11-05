@@ -24,11 +24,8 @@ That's all!
 
 ## Examples
 
-### High Smoothing
-![High Smoothing Example](https://raw.githubusercontent.com/L1am-cd/Unity-2D-Parallax-Mouse-Movement/main/ReadMeAssets/ParallaxSlow.gif)
+### Mouse
+![Mouse Example](https://github.com/L1am-cd/Unity-2D-Parallax-Mouse-Movement/blob/1a5ecc4eff832cc2eaa52d5eec4f6c2520086faf/ReadMeAssets/Example%20Mouse.gif)
 
-### Low Smoothing
-![Low Smoothing Example](https://raw.githubusercontent.com/L1am-cd/Unity-2D-Parallax-Mouse-Movement/main/ReadMeAssets/ParallaxFast.gif)
-
-### Touch Example
-![Touch Example](https://raw.githubusercontent.com/L1am-cd/Unity-2D-Parallax-Mouse-Movement/main/ReadMeAssets/ParallaxPhone.gif)
+### TOuch
+![Touch Example](https://github.com/L1am-cd/Unity-2D-Parallax-Mouse-Movement/blob/1a5ecc4eff832cc2eaa52d5eec4f6c2520086faf/ReadMeAssets/Example%20Touch.gif)
