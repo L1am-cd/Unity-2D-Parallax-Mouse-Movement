@@ -27,5 +27,5 @@ That's all!
 ### Mouse
 ![Mouse Example](https://github.com/L1am-cd/Unity-2D-Parallax-Mouse-Movement/blob/1a5ecc4eff832cc2eaa52d5eec4f6c2520086faf/ReadMeAssets/Example%20Mouse.gif)
 
-### TOuch
+### Touch
 ![Touch Example](https://github.com/L1am-cd/Unity-2D-Parallax-Mouse-Movement/blob/1a5ecc4eff832cc2eaa52d5eec4f6c2520086faf/ReadMeAssets/Example%20Touch.gif)
