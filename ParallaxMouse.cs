@@ -1,6 +1,6 @@
 // Script originally made by Liam (GitHub: L1am-cd) 5 November 2024
 // This script is free to edit and modify. 
-// If you use it, credit would be appreciated, but is not needed.
+// If you use it, credit would be appreciated, but it is not needed.
 
 using System.Collections;
 using System.Collections.Generic;
