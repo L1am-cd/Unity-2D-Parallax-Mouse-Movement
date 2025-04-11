@@ -1,4 +1,4 @@
-// Script originally made by Liam (GitHub: L1am-cd) 5 November 2024
+// Script originally made by Liam (GitHub: L1am-cd) 11 April 2025
 // This script is free to edit and modify. 
 // If you use it, credit would be appreciated, but it is not needed.
 
@@ -12,13 +12,13 @@ public class ParallaxMouse : MonoBehaviour
     [Header("Parallax Settings")]
     public bool MoveOnX = true;
         public bool MoveOnY = true;
-            public float parallaxStrength = -0.5f;
+    
+    public float parallaxStrength = -0.5f;
 
-                [Range(0f, 1f)] [Tooltip("Lower is slower and more smooth")]
-                public float smoothSpeedMouse = 0.03f;
-
-                    [Range(0f, 1f)] [Tooltip("Lower is slower and more smooth")]
-                    public float smoothSpeedTouch = 0.02f;
+    [Range(0f, 1f)] [Tooltip("Lower is slower and more smooth")]
+    public float smoothSpeedMouse = 0.03f;
+        [Range(0f, 1f)] [Tooltip("Lower is slower and more smooth")]
+        public float smoothSpeedTouch = 0.02f;
 
     [Header("Maximum Offset Settings")]
     [Range(0f, 50f)] // Edit the last number if you need a wider range
